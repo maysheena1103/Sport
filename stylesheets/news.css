@@ -1,0 +1,296 @@
+@charset "UTF-8";
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 11, ../sass/news.scss */
+.middle {
+  width: 100%;
+  height: 723px;
+}
+
+/* line 16, ../sass/news.scss */
+.left_middle {
+  width: 742px;
+  height: 100%;
+}
+
+/* line 21, ../sass/news.scss */
+.news {
+  margin-top: -39px;
+  width: 980px;
+  position: relative;
+}
+
+/* line 27, ../sass/news.scss */
+.home_link {
+  float: right;
+  margin-top: 5px;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+/* line 33, ../sass/news.scss */
+.link_a:visited {
+  color: #fef3f3;
+}
+
+/* line 34, ../sass/news.scss */
+.link_a:link {
+  color: #fef3f3;
+}
+
+/* line 35, ../sass/news.scss */
+.link_a:active {
+  color: #fef3f3;
+}
+
+/* line 36, ../sass/news.scss */
+.link_a:hover {
+  color: #fef3f3;
+}
+
+/* line 38, ../sass/news.scss */
+.link_a {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+/* line 44, ../sass/news.scss */
+.news_top {
+  width: 100%;
+}
+
+/* line 49, ../sass/news.scss */
+.news_box {
+  width: 100%;
+  height: 108px;
+  margin-top: 17px;
+}
+
+/* line 55, ../sass/news.scss */
+.news_w {
+  width: 78.6%;
+  height: 100%;
+  padding-left: 10px;
+  color: #ffffff;
+  line-height: 18px;
+  font-size: 12px;
+}
+
+/* line 65, ../sass/news.scss */
+.n_w_r {
+  color: #c4090b;
+  font-size: 14px;
+  margin-bottom: 14px;
+}
+
+/* line 71, ../sass/news.scss */
+.green {
+  color: #84d511;
+  margin-left: 20em;
+}
+
+/* line 76, ../sass/news.scss */
+.text {
+  height: 68px;
+  width: 100%;
+  letter-spacing: -0.1px;
+}
+
+/* line 82, ../sass/news.scss */
+.news_down {
+  width: 306px;
+  height: 194px;
+  padding-top: 2px;
+}
+
+/* line 88, ../sass/news.scss */
+.news_list {
+  width: 100%;
+  height: 19px;
+  padding-top: 7px;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+/* line 96, ../sass/news.scss */
+.n_l_solid {
+  border-bottom: 1px solid #252525;
+}
+
+/* line 100, ../sass/news.scss */
+.icon {
+  margin-right: 4px;
+  margin-top: 2px;
+}
+
+/* line 105, ../sass/news.scss */
+.news_l_w:hover {
+  color: #c4090b;
+}
+
+/* line 109, ../sass/news.scss */
+.next_page {
+  background: none;
+  border: none;
+  width: 120px;
+  height: 17px;
+  outline: none;
+  float: right;
+  margin-top: 43px;
+  cursor: pointer;
+}
+
+/*換頁頁碼樣式*/
+/* line 121, ../sass/news.scss */
+.pages {
+  margin-left: 330px;
+  color: #f51619;
+  font-size: 12px;
+  margin-top: 48px;
+  letter-spacing: 4px;
+}
+
+/*右邊海報*/
+/* line 132, ../sass/news.scss */
+.right_middle {
+  width: 230px;
+  padding-left: 9px;
+  padding-top: 17px;
+}
+
+/* line 138, ../sass/news.scss */
+.right_banner {
+  width: 230px;
+  height: 353px;
+  margin-top: 6px;
+}
+
+/*news_1*/
+/* line 148, ../sass/news.scss */
+.news_title {
+  font-size: 14px;
+  width: 100%;
+  height: 20px;
+  margin-bottom: 30px;
+}
+
+/* line 155, ../sass/news.scss */
+.news_title_a {
+  color: #c4090b;
+  width: 80%;
+  margin-top: 3px;
+}
+
+/* line 161, ../sass/news.scss */
+.news_title_b {
+  color: #84d511;
+  width: 20%;
+  font-size: 12px;
+  padding-top: 4px;
+}
+
+/* line 168, ../sass/news.scss */
+.news_intext {
+  width: 97%;
+  height: 310px;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #ffffff;
+  line-height: 18px;
+  letter-spacing: 1px;
+}
+
+/* line 178, ../sass/news.scss */
+.go_back {
+  margin-left: 50%;
+  margin-right: 50%;
+  font-size: 12px;
+  color: #c4090b;
+}
+
+/* line 184, ../sass/news.scss */
+.go_back:visited {
+  color: #c4090b;
+}
+
+/* line 185, ../sass/news.scss */
+.go_back:link {
+  color: #c4090b;
+}
+
+/* line 186, ../sass/news.scss */
+.go_back:active {
+  color: #c4090b;
+}
+
+/* line 187, ../sass/news.scss */
+.go_back:hover {
+  color: #c4090b;
+}

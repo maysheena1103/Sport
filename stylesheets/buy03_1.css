@@ -1,0 +1,306 @@
+/* line 17, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 5, ../sass/buy03_1.scss */
+.bu_box {
+  width: 748px;
+  height: 340px;
+  border: 1px solid #ffffff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 13, ../sass/buy03_1.scss */
+.bu_ti {
+  width: 559px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+}
+
+/* line 21, ../sass/buy03_1.scss */
+.bu_ti_t {
+  width: 100%;
+  height: 57px;
+  padding-top: 26px;
+  font-weight: 900;
+  font-size: 15px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  background-image: url(../images/buy_25.png);
+}
+
+/* line 34, ../sass/buy03_1.scss */
+.bu_ti_a {
+  width: 267px;
+}
+
+/* line 38, ../sass/buy03_1.scss */
+.bu_ti_b {
+  width: 129px;
+}
+
+/* line 42, ../sass/buy03_1.scss */
+.bu_ti_c {
+  width: 160px;
+}
+
+/* line 46, ../sass/buy03_1.scss */
+.b_c_a_a {
+  height: 47px;
+  width: 267px;
+  padding-left: 18px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-bottom: 1px solid #252525;
+  border-top: 1px solid #2c2c2c;
+}
+
+/* line 56, ../sass/buy03_1.scss */
+.b_c_a {
+  padding-top: 20px;
+  margin-left: 18px;
+}
+
+/* line 61, ../sass/buy03_1.scss */
+.b_c_b {
+  color: #ff1717;
+  width: 129px;
+  padding-top: 20px;
+  height: 47px;
+  border-bottom: 1px solid #252525;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #2c2c2c;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 73, ../sass/buy03_1.scss */
+.b_c_c {
+  color: #ecff17;
+  width: 163px;
+  padding-top: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 47px;
+  border-bottom: 1px solid #252525;
+  border-top: 1px solid #2c2c2c;
+  border-right: 1px solid #000000;
+}
+
+/* line 87, ../sass/buy03_1.scss */
+.bu_ti_t_a {
+  width: 100%;
+  height: 47px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 93, ../sass/buy03_1.scss */
+.bu_c_a {
+  background-color: #4c4c4c;
+}
+
+/* line 97, ../sass/buy03_1.scss */
+.bu_c_b {
+  background-color: #373636;
+}
+
+/* line 101, ../sass/buy03_1.scss */
+.notice {
+  width: 187px;
+  min-height: 61.5%;
+  padding-top: 26px;
+  padding-left: 21px;
+  color: #ffffff;
+  line-height: 20px;
+  font-size: 11.5px;
+  text-align: center;
+  padding-right: 24px;
+  background-color: #252525;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 115, ../sass/buy03_1.scss */
+.notice_a {
+  color: #9dc191;
+  font-size: 15px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+
+/* line 122, ../sass/buy03_1.scss */
+.bu_b_img {
+  float: right;
+  margin-top: 23px;
+  margin-right: 8px;
+}
+
+/*03_2*/
+/* line 133, ../sass/buy03_1.scss */
+.bu_box_a {
+  width: 748px;
+  height: 200px;
+  border: 1px solid #ffffff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 140, ../sass/buy03_1.scss */
+.bu_tia_a {
+  width: 50%;
+}
+
+/* line 144, ../sass/buy03_1.scss */
+.b_ca_a_a {
+  height: 47px;
+  width: 50%;
+  padding-left: 18px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-bottom: 1px solid #252525;
+  border-top: 1px solid #2c2c2c;
+  border-right: 1px solid #000000;
+}
+
+/* line 154, ../sass/buy03_1.scss */
+.b_ca_b {
+  color: #ff2984;
+  width: 50%;
+  height: 47px;
+  border-bottom: 1px solid #252525;
+  border-right: 1px solid #000000;
+  border-top: 1px solid #2c2c2c;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 164, ../sass/buy03_1.scss */
+.b_ca_m {
+  padding-top: 20px;
+}
+
+/*03_3*/
+/* line 171, ../sass/buy03_1.scss */
+.bu_box_b {
+  width: 748px;
+  border: 1px solid #ffffff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 178, ../sass/buy03_1.scss */
+.buy_box {
+  padding-left: 71px;
+  padding-top: 26px;
+  /*height: 86%;*/
+  padding-bottom: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 186, ../sass/buy03_1.scss */
+.buy_list {
+  margin-bottom: 23px;
+  width: 70%;
+  height: 15px;
+  font-size: 15px;
+}
+
+/* line 193, ../sass/buy03_1.scss */
+.buy_list_a {
+  margin-right: 5px;
+}
+
+/* line 197, ../sass/buy03_1.scss */
+.buy_list_y {
+  border-bottom: 1px solid #fff600;
+  color: #fff600;
+}
+
+/* line 202, ../sass/buy03_1.scss */
+.buy_list_r {
+  color: #ff5400;
+}
+
+/* line 206, ../sass/buy03_1.scss */
+.buy_list_b {
+  color: #16ccf9;
+}

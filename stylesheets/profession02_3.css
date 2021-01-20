@@ -1,0 +1,232 @@
+/* line 17, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 4, ../sass/profession02_3.scss */
+.shadow {
+  margin-top: 19px;
+  margin-left: 18px;
+  width: 750px;
+  height: 620px;
+}
+
+/* line 11, ../sass/profession02_3.scss */
+.p_b {
+  width: 512px;
+  color: #ffffff;
+  font-size: 12px;
+  padding-left: 17px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 19, ../sass/profession02_3.scss */
+.p_top {
+  width: 100%;
+  height: 96px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 26, ../sass/profession02_3.scss */
+.t_l {
+  padding-bottom: 5px;
+  width: 335px;
+  height: 30px;
+  padding-top: 11px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 34, ../sass/profession02_3.scss */
+.t_l_img {
+  margin-left: 2px;
+  margin-right: 8px;
+}
+
+/* line 39, ../sass/profession02_3.scss */
+.b_b_a {
+  border-bottom: 1px solid #888888;
+}
+
+/* line 43, ../sass/profession02_3.scss */
+.b_b_b {
+  border-bottom: 1px solid #3d3d3d;
+}
+
+/* line 47, ../sass/profession02_3.scss */
+.b_b_c {
+  border-bottom: 1px solid #1f1f1f;
+}
+
+/* line 51, ../sass/profession02_3.scss */
+.b_r_r {
+  color: red;
+}
+
+/* line 55, ../sass/profession02_3.scss */
+.t_r {
+  text-align: center;
+  margin-top: 18px;
+  margin-left: 55px;
+}
+
+/* line 61, ../sass/profession02_3.scss */
+.mat {
+  margin-top: 8px;
+}
+
+/* line 65, ../sass/profession02_3.scss */
+.down {
+  margin-top: 17px;
+  margin-left: 4px;
+  margin-bottom: 26px;
+  line-height: 18px;
+}
+
+/* line 72, ../sass/profession02_3.scss */
+.p_table {
+  width: 748px;
+  height: 334px;
+  margin-top: 24px;
+}
+
+/* line 81, ../sass/profession02_3.scss */
+table {
+  border-collapse: collapse;
+}
+
+/* line 86, ../sass/profession02_3.scss */
+table, td, th {
+  border: 1px solid #ffffff;
+  text-align: center;
+}
+
+/* line 92, ../sass/profession02_3.scss */
+.p_t_s {
+  width: 100%;
+  font-size: 12px;
+}
+
+/* line 98, ../sass/profession02_3.scss */
+.p_tr_s {
+  background-image: url(../images/table_bg_53.png);
+  background-repeat: repeat-x;
+}
+
+/* line 103, ../sass/profession02_3.scss */
+.p_th_s {
+  color: #ffffff;
+  height: 39px;
+}
+
+/* line 108, ../sass/profession02_3.scss */
+.p_tr_s_a {
+  background-color: #034173;
+}
+
+/* line 118, ../sass/profession02_3.scss */
+.p_td_s_w {
+  color: #ffffff;
+  height: 36px;
+}
+
+/* line 123, ../sass/profession02_3.scss */
+.p_td_s_y {
+  color: #ffea00;
+  height: 36px;
+}
+
+/* line 128, ../sass/profession02_3.scss */
+.p_td_s_o {
+  color: #ff6000;
+  height: 36px;
+}
+
+/* line 133, ../sass/profession02_3.scss */
+.p_td_s_dy {
+  color: #ffa200;
+  height: 36px;
+}
+
+/* line 138, ../sass/profession02_3.scss */
+.p_td_s_r {
+  color: #c82119;
+  height: 36px;
+}
+
+/* line 143, ../sass/profession02_3.scss */
+.p_td_s_g {
+  color: #338d0b;
+  height: 36px;
+}
+
+/* line 148, ../sass/profession02_3.scss */
+.p_td_s_gr {
+  color: #9f9f9f;
+  height: 36px;
+}

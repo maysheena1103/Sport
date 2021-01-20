@@ -1,0 +1,196 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+
+.shadow
+	{
+		margin-top: 58px;
+		margin-left: 50px;
+		@include box-sizing(border-box);
+		position: relative;
+		height: 575px;
+	}
+.m_info
+	{
+		width: 70%;
+		height: 41px;
+		color: #ffffff;
+		font-size: 14px;
+	}
+.m_info_a
+	{
+		width: 70%;
+		height: 70px;
+		color: #ffffff;
+		font-size: 14px;
+	}
+.account
+	{
+		width: 78px;
+		height: 100%;
+		@include box-sizing(border-box);
+		border-right: 5px solid #b81717;
+		padding-top: 8px;
+	}
+.account_a
+	{
+		width: 78px;
+		height: 100%;
+		@include box-sizing(border-box);
+		padding-top: 8px;
+	}
+.m_text
+	{
+		height: 100%;
+		
+		padding-bottom: 13px;
+		@include box-sizing(border-box);
+		padding-left: 19px;
+	}
+.m_input
+	{
+		outline: none;
+		width: 300px;
+		font-size: 14px;
+		padding-left: 3px;
+		height: 28px;
+	}
+.m_input_a
+	{
+		outline: none;
+		width: 147px;
+		font-size: 14px;
+		padding-left: 3px;
+		height: 28px;
+	}
+.m_input_c
+	{
+		outline: none;
+		width: 350px;
+		font-size: 14px;
+		padding-left: 3px;
+		height: 28px;
+	}
+.change
+	{
+		@include box-sizing(border-box);
+		padding-top: 54px;
+		padding-left: 7px;
+		font-size: 12px;
+	}
+.m_text_a
+	{
+		height: 70px;
+		width: 192px;
+		@include box-sizing(border-box);
+		padding-left: 23px;
+	}
+.pink
+	{
+		margin-top: 27px;
+		height: 47px;
+		width: 375px;
+		color: #f5009c;
+		line-height: 25px;
+		font-size: 12px;
+		margin-bottom: 66px;
+	}
+.bu_b_img
+	{
+		margin-left: 8em;
+	}
+
+
+.maci
+	{
+		position: absolute;
+		width: 318px;
+		height: 541px;
+		top: 2em;
+		right: 1em;
+	}
+
+
+
+
+	/*05_2*/
+.maci_img
+	{
+		margin-left: 4em;
+		margin-bottom: 117px;
+		width: 255px;
+		height: 42px;
+	}
+.pink_a
+	{
+		margin-top: 27px;
+		height: 47px;
+		width: 375px;
+		color: #f5009c;
+		line-height: 25px;
+		font-size: 12px;
+		margin-bottom: 20px;
+	}
+.fin
+	{
+		margin-left: -10.5em;
+		margin-top: 9.5em;
+	}
+/*05_3*/
+
+.football
+	{
+		width: 501px;
+		height: 267px;
+		position: absolute;
+		top: 3em;
+		right: -1em;
+	}
+.m_in
+	{
+		color: #ffffff;
+		font-size: 11px;
+		margin-top: 2em;
+		margin-left: 9em;
+	}
+.forget
+	{
+		border-right: 1px solid #ffffff;
+		padding-right: 5px;
+		margin-right: 5px;
+	}
+.fin_a
+	{
+		margin-left: 2em;
+		margin-top: -0.6em;
+		z-index: 1000;
+		position: absolute;
+	}
+/*05_4*/
+.fin_b
+	{
+		margin-left: 15em;
+		margin-top: 2em;
+		z-index: 1000;
+		position: absolute;
+	}
+.po
+	{
+		position: absolute;
+		z-index: 1000;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
